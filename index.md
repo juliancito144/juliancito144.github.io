@@ -1,7 +1,7 @@
 
 # Julian Gutierrez's Portfoilo 
 
-Hi! Welcome to my homepage. My name is Julian Gutierrez, I am a electrical engineering major and I plan on graduating in 2029.
+Hi! Welcome to my homepage. My name is Julian Gutierrez, I am a electrical engineering major at Cal State Fullerton University and I plan on graduating in 2029.
 
 My github page is https://github.com/juliancito144
 
