@@ -3,9 +3,9 @@
 
 Hi! Welcome to my homepage. My name is Julian Gutierrez, I am a electrical engineering major and I plan on graduating in 2029.
 
-## Favorite CPSC 120L Labs
-
 My github page is https://github.com/juliancito144
+
+## Favorite CPSC 120L Labs
 
 * Lab 1
 
